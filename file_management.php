@@ -16,7 +16,7 @@
  //Dosya içerisine metin ekleme
  /*touch("ogrenci.txt");
  $belge=fopen("ogrenci.txt","w+");
- fwrite($belge, "Adım Soyadım: ÇİSEM YAŞAR,\tOkul: GELİŞİM ÜNİVERSİTESİ,\nProgramlama Dilleri: PHP");
+ fwrite($belge, "Adım Soyadım: BAHAR EVİN ÖZDEMİR,\tOkul: GELİŞİM ÜNİVERSİTESİ,\nProgramlama Dilleri: PHP");
  echo "Belge üzerine içerik eklendi. Kontrol 
  edebilirsiniz.";
  fclose($belge);*/
